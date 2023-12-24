@@ -1,0 +1,14 @@
+baseURL: https://blog.phcarvalho.com/
+languageCode: en-us
+title: Paulo Carvalho's Blog
+menu:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: Posts
+      pageRef: /posts
+      weight: 20
+    - name: Tags
+      pageRef: /tags
+      weight: 30
