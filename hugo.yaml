@@ -3,9 +3,9 @@ languageCode: en-us
 title: Paulo Carvalho
 menu:
   main:
-    - name: Posts
-      pageRef: /posts
-      weight: 20
+    # - name: Posts
+    #   pageRef: /posts
+    #   weight: 20
     - name: Tags
       pageRef: /tags
       weight: 30
